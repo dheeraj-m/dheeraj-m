@@ -1,0 +1,107 @@
+Technology : Flutter Dart, Firebase, UI UX adobe XD,  BRD SRS Wireframe
+
+Js, Mongo, APIs firebase & google, 
+
+
+Modules :
+
+Client App :  
+Login 
+OTP
+Browsing
+Filters API 
+Payment - gift coupons 
+Calendar api
+Location api
+Medicine based
+Concession api
+Medicine types - allopathy, instrument, blood bank, homeopathy, …etc
+
+Vendor Pharmacy store App:
+
+New vendor registration
+Update Stock list of vendor
+Speciality of pharmacy store
+Availability , accessibility features
+Review ratings
+
+
+Flow :
+
+Login -> register -> search preference-> loca, medicine, cost , type filters ->stock list availability, near localtiy, book -> delivery
+Login -> register -> search -> known medical store -> Book -> collect at store
+
+
+ER .. Use case ..
+
+Attributes:
+sagar.amitshri@gmail.com   
+
+                  Client Landing Page:
+1.Login/Signup:
+Name
+Mobile Number
+Password.
+Confirm Password
+Otp(via firebase)
+2.  Home page.
+            
+Grant location
+Maps api
+Search nearby  medical stores
+Search medicine or blood or medical instruments.
+filter/sort
+Prescription
+
+                                           
+                                      Push Notification to vendors about medicine requirement
+
+                           Receive results and Locations of available stores with medicines
+
+                            Place orders.
+3. Cart:
+       
+Items added
+Coupons
+Delivery distance
+Taxes and total
+Payment gateway(upi, cards, cod)with commission
+
+
+
+ 
+Vendor Landing Page
+
+1. Login/Signup:
+Name
+Mobile Number
+Password.
+Confirm Password
+Otp(via firebase)
+Medical license verification
+Monthly charges (for services)(flexible)
+
+
+                 Receive notification of medicine requirement
+    
+                 Send Data about availability
+
+                  Receive orders.
+
+
+
+2. Statistics
+       
+Number of times appeared in search result
+Monthly sales through app
+Most searched medicines
+
+
+
+
+
+
+Wireframe: 
+
+
+
